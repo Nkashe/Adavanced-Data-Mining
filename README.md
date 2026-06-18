@@ -163,8 +163,8 @@ This behavior aligns with typical PV generation patterns in warm climates.
 ---
 
 ##  Author  
-**Beven Mpofu**  
+**Sibonginkosi T Nkashe**  
 Graduate Data Science Student — Michigan Technological University  
 Specializing in ML, predictive modeling, and deployment.
 
-Email:bmpofu@mtu.edu
+Email:ttnkashe@mtu.edu
